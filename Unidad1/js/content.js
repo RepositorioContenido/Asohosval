@@ -13,7 +13,7 @@
  */
 window.OVA_CONTENT_META = { contentSha256: "0ceb561f", generatedAt: "2026-10-25T01:00:34.210Z" };
 window.OVA_CONTENT = {
-  "courseTitle": "Uso de inteligencia artificial generativa en los procesos en salud: bases y fundamentos para su aplicación práctica y uso seguro",
+  "courseTitle": "Fundamentos de la inteligencia artificial generativa aplicada a procesos en salud.",
   "unitCode": "Unidad 1",
   "branding": {
     "pageTitle": "OVA SENA • Unidad 1",
