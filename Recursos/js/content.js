@@ -1,0 +1,1009 @@
+/**
+ * ===========================================================================
+ *  ARCHIVO GENERADO - NO EDITAR A MANO
+ * ===========================================================================
+ *  Fuente de verdad: content.json     Generador: ./generar-content.command
+ *
+ *  Para cambiar contenido (imagenes, titulos, slides, botones, links),
+ *  edita  content.json  y corré el generador.
+ * ===========================================================================
+ *
+ *  contentSha256: b3e0c513
+ *  generatedAt:   2026-10-28T22:01:47.796Z
+ */
+window.OVA_CONTENT_META = { contentSha256: "b3e0c513", generatedAt: "2026-10-28T22:01:47.796Z" };
+window.OVA_CONTENT = {
+  "courseTitle": "Uso de inteligencia artificial generativa en los procesos en salud: bases y fundamentos para su aplicación práctica y uso seguro",
+  "unitCode": "Recursos de apoyo",
+  "branding": {
+    "pageTitle": "OVA SENA • Recursos de apoyo",
+    "portadaImage": "assets/portada.jpg",
+    "logoLeft": "assets/log_foe.png",
+    "logoLeftWhite": "assets/log_foe_blanco.png",
+    "logoLeftAlt": "Formación Continua Especializada (FCE)",
+    "logoRight": "assets/Logo_asohosval.png",
+    "logoRightWhite": "assets/Logo_asohosval_blanco.png",
+    "logoRightAlt": "SENA y ASOHOSVAL",
+    "popupLogoLeft": "assets/25anos.png",
+    "popupLogoLeftAlt": "Más de 25 años",
+    "popupLogoRight": "assets/Hashtag_logo.png",
+    "popupLogoRightAlt": "#FormaciónContinua",
+    "footerNotice": "Las acciones de formación ejecutadas en el marco de la convocatoria DSNFT - 0001 - FCE - 2026 son gratuitas para los trabajadores beneficiarios"
+  },
+  "recursos": {
+    "heading": "Recursos de apoyo",
+    "intro": "Consulte los anexos, el material complementario, el glosario y la bibliografía de cada unidad. Use el menú superior para filtrar por unidad y por tipo de recurso.",
+    "units": [
+      {
+        "id": "u1",
+        "label": "Unidad 1",
+        "title": "Fundamentos de la inteligencia artificial generativa aplicada a procesos en salud"
+      },
+      {
+        "id": "u2",
+        "label": "Unidad 2",
+        "title": "Uso seguro, ético y responsable de la inteligencia artificial generativa en instituciones de salud"
+      },
+      {
+        "id": "u3",
+        "label": "Unidad 3",
+        "title": "Aplicación práctica de la inteligencia artificial generativa para el fortalecimiento de la productividad institucional"
+      },
+      {
+        "id": "ut",
+        "label": "Unidad 4",
+        "title": "Equidad, diversidad e inclusión como factores de productividad en IPS"
+      }
+    ],
+    "types": [
+      {
+        "id": "anexos",
+        "label": "Anexos",
+        "icon": "anexos"
+      },
+      {
+        "id": "complementario",
+        "label": "Material complementario",
+        "icon": "complementario"
+      },
+      {
+        "id": "glosario",
+        "label": "Glosario",
+        "icon": "glosario"
+      },
+      {
+        "id": "bibliografia",
+        "label": "Bibliografía",
+        "icon": "bibliografia"
+      }
+    ],
+    "buttons": {
+      "pdf": "Abrir PDF",
+      "video": "Ver video",
+      "web": "Visitar sitio",
+      "reference": "Consultar recurso"
+    },
+    "items": [
+      {
+        "id": "r01",
+        "unit": "u1",
+        "type": "anexos",
+        "title": "Guía rápida: configuración inicial segura de una herramienta de IA generativa",
+        "text": "Ocho verificaciones para configurar la herramienta antes de usarla en el trabajo.",
+        "reference": "García, I. (2026). <em>Guía rápida: configuración inicial segura de una herramienta de IA generativa</em> [Recurso del curso AF1]. Asohosval – SENA.",
+        "url": "https://recursos.igesp.dev/asohosval-sena-2026/af1/AF1_U1_Anexo1_Guia_configuracion_segura_IA.pdf",
+        "format": "pdf"
+      },
+      {
+        "id": "r02",
+        "unit": "u1",
+        "type": "anexos",
+        "title": "Cali impulsa lineamientos para la inteligencia artificial en salud",
+        "text": "Nota institucional sobre la Declaración de Cali, que propone desde el Valle del Cauca una agenda nacional para la implementación ética y responsable de la IA en salud.",
+        "reference": "Universidad del Valle. (2026). <em>Cali impulsa lineamientos para la inteligencia artificial en salud</em>.",
+        "url": "https://www.univalle.edu.co/proyeccion-internacional/cali-impulsa-lineamientos-para-la-inteligencia-artificial-en-salud",
+        "format": "web"
+      },
+      {
+        "id": "r03",
+        "unit": "u2",
+        "type": "anexos",
+        "title": "Ficha: qué norma me protege y qué me obliga, y lista de verificación antes de usar un resultado de IA",
+        "text": "Normas aplicables al uso de IA en salud y lista de verificación previa al uso de un resultado.",
+        "reference": "García, I. (2026). <em>Ficha: qué norma me protege y qué me obliga, y lista de verificación antes de usar un resultado de IA</em> [Recurso del curso AF1]. Asohosval – SENA.",
+        "url": "https://recursos.igesp.dev/asohosval-sena-2026/af1/AF1_U2_Anexo3_Ficha_normas_y_lista_verificacion.pdf",
+        "format": "pdf"
+      },
+      {
+        "id": "r04",
+        "unit": "u2",
+        "type": "anexos",
+        "title": "ABC Sentencia T-323 de 2024",
+        "text": "Resumen oficial de la sentencia que admitió la IA generativa como herramienta de apoyo en la administración de justicia, nunca como sustituto del razonamiento humano.",
+        "reference": "Rama Judicial de Colombia. (2024). <em>ABC Sentencia T-323 de 2024</em> [Documento informativo].",
+        "url": "https://www.ramajudicial.gov.co/documents/10635/155269343/ABC_SentenciaIA_T323De2024.pdf/a2006b6d-58f1-beb0-31f8-1b04f398bf68?t=1727383419804",
+        "format": "pdf"
+      },
+      {
+        "id": "r05",
+        "unit": "u3",
+        "type": "anexos",
+        "title": "Kit de instrucciones (prompts) por cargo para instituciones de salud",
+        "text": "Instrucciones modelo por cargo, redactadas para usarse sin datos de personas.",
+        "reference": "García, I. (2026). <em>Kit de instrucciones (prompts) por cargo para instituciones de salud</em> [Recurso del curso AF1]. Asohosval – SENA.",
+        "url": "https://recursos.igesp.dev/asohosval-sena-2026/af1/AF1_U3_Anexo5_Kit_instrucciones_por_cargo.pdf",
+        "format": "pdf"
+      },
+      {
+        "id": "r06",
+        "unit": "u3",
+        "type": "anexos",
+        "title": "Plantilla de propuesta de aplicación y biblioteca de instrucciones del equipo",
+        "text": "Plantilla para formular la propuesta de aplicación y registrar las instrucciones del equipo.",
+        "reference": "García, I. (2026). <em>Plantilla de propuesta de aplicación y biblioteca de instrucciones del equipo</em> [Recurso del curso AF1]. Asohosval – SENA.",
+        "url": "https://recursos.igesp.dev/asohosval-sena-2026/af1/AF1_U3_Anexo6_Plantilla_propuesta_y_biblioteca.pdf",
+        "format": "pdf"
+      },
+      {
+        "id": "r07",
+        "unit": "ut",
+        "type": "anexos",
+        "title": "Diversidad, equidad e inclusión laboral",
+        "reference": "DGIL ST Puebla. (2025, 25 de marzo). <em>Diversidad, equidad e inclusión laboral</em> [Video]. YouTube.",
+        "url": "https://www.youtube.com/watch?v=yDDXabARdXk",
+        "format": "video"
+      },
+      {
+        "id": "r08",
+        "unit": "ut",
+        "type": "anexos",
+        "title": "Diversidad e inclusión laboral",
+        "reference": "DL Digital Learning. (2017, 14 de septiembre). <em>Diversidad e inclusión laboral</em> [Video]. YouTube.",
+        "url": "https://www.youtube.com/watch?v=ROKyHQP1S28",
+        "format": "video"
+      },
+      {
+        "id": "r09",
+        "unit": "u1",
+        "type": "complementario",
+        "title": "Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models",
+        "text": "Guía de la Organización Mundial de la Salud sobre ética y gobernanza de los modelos multimodales grandes en salud.",
+        "reference": "World Health Organization. (2024). <em>Ethics and governance</em> <em>of artificial intelligence</em> <em>for</em> <em>health: Guidance</em> <em>on</em> <em>large</em> <em>multi-modal</em> <em>models</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240084759",
+        "format": "web"
+      },
+      {
+        "id": "r10",
+        "unit": "u1",
+        "type": "complementario",
+        "title": "Large language models in medicine",
+        "text": "Artículo de revisión sobre las aplicaciones y los límites de los modelos de lenguaje en medicina.",
+        "reference": "Thirunavukarasu, A. J., Ting, D. S. J., Elangovan, K., Gutierrez, L., Tan, T. F., &amp; Ting, D. S. W. (2023). Large language models in medicine. <em>Nature Medicine, 29</em>(8), 1930–1940.",
+        "url": "https://doi.org/10.1038/s41591-023-02448-8",
+        "format": "web"
+      },
+      {
+        "id": "r11",
+        "unit": "u1",
+        "type": "complementario",
+        "title": "Hablemos de Salud Ep. 34 – IA en salud: ¿Estamos preparados?",
+        "text": "Episodio del pódcast de la OPS sobre cómo se usa ya la IA en la atención y la gestión hospitalaria, su confiabilidad, sus riesgos y el papel de los profesionales de la salud.",
+        "reference": "Organización Panamericana de la Salud [PAHO TV]. (2026, 13 de octubre). <em>Hablemos de Salud Ep. 34 – IA en salud: ¿Estamos preparados?</em> [Video]. YouTube.",
+        "url": "https://www.youtube.com/watch?v=16GoaWXkyVo",
+        "format": "video"
+      },
+      {
+        "id": "r12",
+        "unit": "u2",
+        "type": "complementario",
+        "title": "Ley 1581 de 2012",
+        "text": "Texto oficial del régimen general de protección de datos personales.",
+        "reference": "Ley 1581 de 2012. (2012, 17 de octubre). Por la cual se dictan disposiciones generales para la protección de datos personales. Congreso de la República de Colombia.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981",
+        "format": "web"
+      },
+      {
+        "id": "r13",
+        "unit": "u2",
+        "type": "complementario",
+        "title": "Colombia da un salto histórico en telesalud y telemedicina: el Ministerio de Salud expide una reglamentación más moderna, segura y cercana a los territorios",
+        "text": "Comunicado oficial sobre la nueva reglamentación de telesalud y telemedicina, que incluye el uso de IA como apoyo.",
+        "reference": "Ministerio de Salud y Protección Social. (2026). <em>Colombia da un salto histórico en telesalud y telemedicina: el Ministerio de Salud expide una reglamentación más moderna, segura y cercana a los territorios</em> [Comunicado sobre la Resolución 1644 de 2026].",
+        "url": "https://www.minsalud.gov.co/Comunicaciones/noticias/2026/Paginas/colombia-da-un-salto-historico-en-telesalud-y-telemedicina-el-ministerio-de-salud-expide-una-reglamentacion-mas-moderna.aspx",
+        "format": "web"
+      },
+      {
+        "id": "r14",
+        "unit": "u2",
+        "type": "complementario",
+        "title": "Uso responsable de la IA: Guía ética para la implementación, desarrollo y uso de sistemas de inteligencia artificial en entidades públicas de Colombia",
+        "text": "Guía nacional con principios éticos para el uso de la IA en entidades públicas.",
+        "reference": "Presidencia de la República. (s. f.). <em>Uso responsable de la IA: Guía ética para la implementación, desarrollo y uso de sistemas de inteligencia artificial en entidades públicas de Colombia</em>.",
+        "url": "https://www.mintic.gov.co/portal/715/articles-425888_recurso_1.pdf",
+        "format": "pdf"
+      },
+      {
+        "id": "r15",
+        "unit": "u2",
+        "type": "complementario",
+        "title": "Hablemos de Salud Ep. 4 – Telemedicina e inteligencia artificial: ¿El futuro de la salud?",
+        "text": "Episodio de la OPS sobre IA generativa, telemedicina, protección de datos y precisión diagnóstica.",
+        "reference": "Organización Panamericana de la Salud [PAHO TV]. (2025, 7 de mayo). <em>Hablemos de Salud Ep. 4 – Telemedicina e inteligencia artificial: ¿El futuro de la salud?</em> [Video]. YouTube.",
+        "url": "https://www.youtube.com/watch?v=EnnVF2KRbS0",
+        "format": "video"
+      },
+      {
+        "id": "r16",
+        "unit": "u2",
+        "type": "complementario",
+        "title": "Infografía 6. Inteligencia artificial",
+        "text": "Infografía de la OPS sobre la prevención de sesgos algorítmicos y la inclusión social desde el diseño de los sistemas de IA.",
+        "reference": "Organización Panamericana de la Salud. (2022, 6 de junio). <em>Infografía 6. Inteligencia artificial</em> [8 principios rectores de la transformación digital del sector salud: un llamado a la acción panamericana].",
+        "url": "https://www.paho.org/es/documentos/infografia-6-inteligencia-artificial-8-principios-rectores-transformacion-digital-sector",
+        "format": "web"
+      },
+      {
+        "id": "r17",
+        "unit": "u3",
+        "type": "complementario",
+        "title": "Diseño de prompts de inteligencia artificial para salud pública: hacia un uso responsable de la inteligencia artificial generativa (OPS/EIH/IS/25-0010)",
+        "text": "Guía de la OPS sobre la anatomía de una instrucción, la prevención de sesgos, las bibliotecas institucionales de instrucciones y la revisión humana.",
+        "reference": "Organización Panamericana de la Salud. (2025). <em>Diseño de prompts de inteligencia artificial para salud pública: hacia un uso responsable de la inteligencia artificial generativa</em> (OPS/EIH/IS/25-0010).",
+        "url": "https://iris.paho.org/items/bbc3b7e5-cc17-4f33-a2c7-cee379c9268e",
+        "format": "web"
+      },
+      {
+        "id": "r18",
+        "unit": "u3",
+        "type": "complementario",
+        "title": "Programa de Alfabetización Digital | Encuentro con el especialista: Usando los prompts con propósito, parte 1",
+        "text": "Seminario web de la OPS sobre cómo instrucciones más precisas mejoran el contenido en salud generado con IA.",
+        "reference": "Organización Panamericana de la Salud [PAHO TV]. (2025, 27 de octubre). <em>Programa de Alfabetización Digital | Encuentro con el especialista: Usando los prompts con propósito, parte 1</em> [Video]. YouTube.",
+        "url": "https://www.youtube.com/watch?v=bCSG83ZR8EA",
+        "format": "video"
+      },
+      {
+        "id": "r19",
+        "unit": "u3",
+        "type": "complementario",
+        "title": "Programa de Alfabetización Digital | Encuentro con el especialista: Usando los prompts con propósito, parte 2",
+        "text": "Segunda parte del seminario, centrada en la generación de contenido para la salud pública.",
+        "reference": "Organización Panamericana de la Salud [PAHO TV]. (2025, 20 de noviembre). <em>Programa de Alfabetización Digital | Encuentro con el especialista: Usando los prompts con propósito, parte 2</em> [Video]. YouTube.",
+        "url": "https://www.youtube.com/watch?v=-C-siXzsvEs",
+        "format": "video"
+      },
+      {
+        "id": "r20",
+        "unit": "u3",
+        "type": "complementario",
+        "title": "PubMed clinical queries",
+        "text": "Buscador de PubMed con filtros por tipo de pregunta clínica. En inglés.",
+        "reference": "National Library of Medicine. (s. f.). <em>PubMed clinical</em> <em>queries</em>.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/clinical/",
+        "format": "web"
+      },
+      {
+        "id": "r21",
+        "unit": "u3",
+        "type": "complementario",
+        "title": "Biblioteca Virtual en Salud",
+        "text": "Portal regional de información científica en salud, en español, con acceso a Lilacs.",
+        "reference": "Bireme/OPS/OMS. (s. f.). <em>Biblioteca Virtual en Salud</em>.",
+        "url": "https://bvsalud.org",
+        "format": "web"
+      },
+      {
+        "id": "r22",
+        "unit": "ut",
+        "type": "complementario",
+        "title": "A concept analysis of psychological safety: Further understanding for application to health care",
+        "reference": "Fukada, T. (2022). A concept analysis of psychological safety: Further understanding for application to health care. <em>Nursing Open</em>, <em>9</em>(1), 220–232. doi.org",
+        "url": null,
+        "format": "web"
+      },
+      {
+        "id": "r23",
+        "unit": "ut",
+        "type": "complementario",
+        "title": "Diversidad e inclusión en la gestión del talento humano",
+        "reference": "García, K. V., Chiquito, M. A., & Giler, L. M. (2025). Diversidad e inclusión en la gestión del talento humano. <em>Revista Científica Arbitrada de la UTIC</em>, <em>9</em>(3), 115-134.",
+        "url": "https://dialnet.unirioja.es/descarga/articulo/10344163.pdf",
+        "format": "pdf"
+      },
+      {
+        "id": "r24",
+        "unit": "ut",
+        "type": "complementario",
+        "title": "Diversidad, equidad e inclusión: las claves para crear un entorno equitativo en el trabajo",
+        "reference": "Letmino. (2026). <em>Diversidad, equidad e inclusión: las claves para crear un entorno equitativo en el trabajo</em>. Blog Letmino.",
+        "url": "https://letmino.ai/blog/diversidad-equidad-e-inclusion-las-claves-para-crear-un-entorno-equitativo-en-el-trabajo/",
+        "format": "web"
+      },
+      {
+        "id": "r25",
+        "unit": "u1",
+        "type": "glosario",
+        "title": "Datos de entrenamiento",
+        "text": "conjunto de textos, imágenes u otros datos con los que se entrena un modelo de IA para que aprenda patrones. Su calidad, su actualidad y sus sesgos influyen en lo que el modelo produce."
+      },
+      {
+        "id": "r26",
+        "unit": "u1",
+        "type": "glosario",
+        "title": "Red neuronal artificial",
+        "text": "modelo computacional formado por capas de unidades interconectadas que ajustan sus conexiones a partir de datos para reconocer patrones. Es la base del aprendizaje profundo y de los modelos de lenguaje actuales."
+      },
+      {
+        "id": "r27",
+        "unit": "u2",
+        "type": "glosario",
+        "title": "Autorización (tratamiento de datos)",
+        "text": "«Consentimiento previo, expreso e informado del Titular para llevar a cabo el Tratamiento de datos personales» (Ley 1581 de 2012, art. 3, lit. a)."
+      },
+      {
+        "id": "r28",
+        "unit": "u2",
+        "type": "glosario",
+        "title": "Titular (de datos personales)",
+        "text": "«Persona natural cuyos datos personales sean objeto de Tratamiento» (Ley 1581 de 2012, art. 3.°, lit. f)."
+      },
+      {
+        "id": "r29",
+        "unit": "u3",
+        "type": "glosario",
+        "title": "Instrucción con pocos ejemplos (few-shot prompting)",
+        "text": "</em>técnica de diseño de instrucciones que consiste en incluir en la instrucción varios ejemplos del tipo de respuesta esperada, para orientar el formato y el contenido de lo que genera la herramienta (Brown et al., 2020; Meskó, 2023)."
+      },
+      {
+        "id": "r30",
+        "unit": "u3",
+        "type": "glosario",
+        "title": "Lenguaje claro",
+        "text": "«Una comunicación está en lenguaje claro si satisface las necesidades de la audiencia», de tal forma que esta pueda encontrar lo que busca, entender lo que encuentra y usarlo de forma fácil y rápida (Departamento Nacional de Planeación, 2015, p. 23)."
+      },
+      {
+        "id": "r31",
+        "unit": "ut",
+        "type": "glosario",
+        "title": "Seguridad psicológica hospitalaria",
+        "text": "significa trabajar en un entorno de salud basado en la confianza. Permite que médicos, enfermeros, técnicos o auxiliares detengan un procedimiento o reporten un error con total tranquilidad, con la certeza de que serán respetados y escuchados sin importar su cargo, edad u origen."
+      },
+      {
+        "id": "r32",
+        "unit": "ut",
+        "type": "glosario",
+        "title": "Sesgo inconsciente en salud",
+        "text": "es la tendencia involuntaria del personal de salud a usar atajos mentales con ciertos grupos de pacientes. Estos prejuicios automáticos por edad, género o clase social operan de forma oculta, lo que termina afectando la empatía, alterando los diagnósticos y distribuyendo los recursos de manera injusta."
+      },
+      {
+        "id": "r33",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Anthropic. (2026). <em>Claude Opus 5.5</em> [Modelo de lenguaje grande].",
+        "url": "https://claude.ai"
+      },
+      {
+        "id": "r34",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Consejo Nacional de Política Económica y Social. (2025). <em>Documento Conpes 4144: Política Nacional de Inteligencia Artificial</em>. Departamento Nacional de Planeación.",
+        "url": "https://www.dnp.gov.co/publicaciones/Planeacion/Paginas/conpes-4144-hoja-de-ruta-colombia-inteligencia-artificial-retos-actuales-transformacion-futura.aspx"
+      },
+      {
+        "id": "r35",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Goddard, K., Roudsari, A., &amp; Wyatt, J. C. (2012). Automation bias: A systematic review of frequency, effect mediators, and mitigators. <em>Journal</em> <em>of</em> <em>the American Medical Informatics</em> <em>Association, 19</em>(1), 121–127.",
+        "url": "https://doi.org/10.1136/amiajnl-2011-000089"
+      },
+      {
+        "id": "r36",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., Bang, Y. J., Madotto, A., &amp; Fung, P. (2023). Survey of hallucination in natural language generation. <em>ACM Computing Surveys, 55</em>(12), Artículo 248.",
+        "url": "https://doi.org/10.1145/3571730"
+      },
+      {
+        "id": "r37",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Krizhevsky, A., Sutskever, I., &amp; Hinton, G. E. (2017). ImageNet classification with deep convolutional neural networks. <em>Communications</em> <em>of</em> <em>the ACM, 60</em>(6), 84–90.",
+        "url": "https://doi.org/10.1145/3065386"
+      },
+      {
+        "id": "r38",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., &amp; Kiela, D. (2020). <em>Retrieval-augmented</em> <em>generation</em> <em>for</em> <em>knowledge-intensive NLP tasks</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/2005.11401"
+      },
+      {
+        "id": "r39",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "McCarthy, J., Minsky, M. L., Rochester, N., &amp; Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. <em>AI Magazine, 27</em>(4), 12–14. (Obra original publicada en 1955)",
+        "url": "https://doi.org/10.1609/aimag.v27i4.1904"
+      },
+      {
+        "id": "r40",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Miao, F., &amp; Holmes, W. (2024). <em>Guía para el uso de IA generativa en educación e investigación</em>. UNESCO.",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000389227"
+      },
+      {
+        "id": "r41",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Omiye, J. A., Lester, J. C., Spichak, S., Rotemberg, V., &amp; Daneshjou, R. (2023). Large language models propagate race-based medicine. <em>npj Digital Medicine, 6</em>, Artículo 195.",
+        "url": "https://doi.org/10.1038/s41746-023-00939-z"
+      },
+      {
+        "id": "r42",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "OpenAI. (2022, 30 de noviembre). <em>Introducing</em> <em>ChatGPT</em>.",
+        "url": "https://openai.com/index/chatgpt/"
+      },
+      {
+        "id": "r43",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J., Kelton, F., Miller, L., Simens, M., Askell, A., Welinder, P., Christiano, P., Leike, J., &amp; Lowe, R. (2022). <em>Training language</em> <em>models</em> <em>to</em> <em>follow</em> <em>instructions</em> <em>with human feedback</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/2203.02155"
+      },
+      {
+        "id": "r44",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., Scales, N., Tanwani, A., Cole-Lewis, H., Pfohl, S., Payne, P., Seneviratne, M., Gamble, P., Kelly, C., Babiker, A., Schärli, N., Chowdhery, A., Mansfield, P., Demner-Fushman, D., … Natarajan, V. (2023). Large language models encode clinical knowledge. <em>Nature, 620</em>(7972), 172–180.",
+        "url": "https://doi.org/10.1038/s41586-023-06291-2"
+      },
+      {
+        "id": "r45",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Topol, E. J. (2019). High-performance medicine: The convergence of human and artificial intelligence. <em>Nature Medicine, 25</em>(1), 44–56.",
+        "url": "https://doi.org/10.1038/s41591-018-0300-7"
+      },
+      {
+        "id": "r46",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind, 59</em>(236), 433–460.",
+        "url": "https://doi.org/10.1093/mind/LIX.236.433"
+      },
+      {
+        "id": "r47",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., &amp; Polosukhin, I. (2017). <em>Attention</em> <em>is</em> <em>all</em> <em>you</em> <em>need</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/1706.03762"
+      },
+      {
+        "id": "r48",
+        "unit": "u1",
+        "type": "bibliografia",
+        "reference": "Walters, W. H., &amp; Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. <em>Scientific Reports, 13</em>, Artículo 14045.",
+        "url": "https://doi.org/10.1038/s41598-023-41032-5"
+      },
+      {
+        "id": "r49",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Barranquero, J. (2022). <em>Introducción a la anonimización de datos: técnicas y casos prácticos</em>. datos.gob.es.",
+        "url": "https://datos.gob.es/sites/default/files/doc/file/informe-anonimizacion-es.pdf"
+      },
+      {
+        "id": "r50",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Constitución Política de Colombia. (1991). Secretaría General del Senado.",
+        "url": "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+      },
+      {
+        "id": "r51",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Corte Constitucional de Colombia. (2024, 2 de agosto). <em>Sentencia T-323 de 2024</em> (J. C. Cortés González, M. S.).",
+        "url": "https://www.corteconstitucional.gov.co/relatoria/2024/T-323-24.htm"
+      },
+      {
+        "id": "r52",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Decreto 1377 de 2013. (2013, 27 de junio). Por el cual se reglamenta parcialmente la Ley 1581 de 2012. Presidencia de la República de Colombia.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646"
+      },
+      {
+        "id": "r53",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Departamento Administrativo de la Función Pública. (s. f.). <em>Gestor Normativo</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/"
+      },
+      {
+        "id": "r54",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Departamento Administrativo Nacional de Estadística. (2024). <em>Guía para la anonimización de datos estructurados</em>.",
+        "url": "https://www.dane.gov.co/files/sen/registros-administrativos/guia-anonimizacion-datos2024.pdf"
+      },
+      {
+        "id": "r55",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Instituto Nacional de Vigilancia de Medicamentos y Alimentos. (s. f.). <em>¿Qué hacemos?</em>",
+        "url": "https://www.invima.gov.co/el-instituto/que-hacemos"
+      },
+      {
+        "id": "r56",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ley 23 de 1981. (1981, 18 de febrero). Por la cual se dictan normas en materia de ética médica. Congreso de la República de Colombia.",
+        "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/INEC/IGUB/ley-23-de-1981.pdf"
+      },
+      {
+        "id": "r57",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ley 100 de 1993. (1993, 23 de diciembre). Por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Congreso de la República de Colombia.",
+        "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1993.html"
+      },
+      {
+        "id": "r58",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ley 2015 de 2020. (2020, 31 de enero). Por medio del cual se crea la historia clínica electrónica interoperable y se dictan otras disposiciones. Congreso de la República de Colombia.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=105472"
+      },
+      {
+        "id": "r59",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ministerio de Justicia y del Derecho. (s. f.). <em>SUIN-Juriscol: Sistema Único de Información Normativa</em>.",
+        "url": "https://www.suin-juriscol.gov.co/"
+      },
+      {
+        "id": "r60",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ministerio de Salud. (1999, 8 de julio). <em>Resolución 1995 de 1999: Por la cual se establecen normas para el manejo de la historia clínica</em>.",
+        "url": "https://www.minsalud.gov.co/normatividad_nuevo/resoluci%C3%93n%201995%20de%201999.pdf"
+      },
+      {
+        "id": "r61",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ministerio de Salud y Protección Social. (2017). <em>Resolución 839 de 2017: Por la cual se modifica la Resolución 1995 de 1999 y se dictan otras disposiciones</em>.",
+        "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No%20839%20de%202017.pdf"
+      },
+      {
+        "id": "r62",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Ministerio de Salud y Protección Social. (2026, 31 de julio). <em>Resolución 1644 de 2026: Por la cual se establecen los requisitos y condiciones para el desarrollo de actividades de telesalud y la prestación de servicios de salud en la modalidad de telemedicina en el Sistema General de Seguridad Social en Salud y se deroga la Resolución 2654 de 2019</em>. Diario Oficial 53.618.",
+        "url": "https://normograma.mintic.gov.co/mintic/compilacion/docs/resolucion_minsaludps_1644_2026.htm"
+      },
+      {
+        "id": "r63",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "National Institute of Standards and Technology. (2023). <em>Artificial intelligence</em> <em>risk</em> <em>management</em> <em>framework (AI RMF 1.0)</em> (NIST AI 100-1). U.S. Department of Commerce.",
+        "url": "https://doi.org/10.6028/NIST.AI.100-1"
+      },
+      {
+        "id": "r64",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "National Institute of Standards and Technology. (2024). <em>Artificial intelligence</em> <em>risk</em> <em>management</em> <em>framework: Generative artificial intelligence</em> <em>profile</em> (NIST AI 600-1). U.S. Department of Commerce.",
+        "url": "https://doi.org/10.6028/NIST.AI.600-1"
+      },
+      {
+        "id": "r65",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2021). <em>Recomendación sobre la ética de la inteligencia artificial</em>.",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000381137"
+      },
+      {
+        "id": "r66",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "Superintendencia de Industria y Comercio. (2024, 21 de agosto). <em>Circular Externa 002 de 2024: Lineamientos sobre el tratamiento de datos personales en sistemas de inteligencia artificial</em>.",
+        "url": "https://sedeelectronica.sic.gov.co/sites/default/files/normativa/Circular%20Externa%20No.%20002%20del%2021%20de%20agosto%20de%202024.pdf"
+      },
+      {
+        "id": "r67",
+        "unit": "u2",
+        "type": "bibliografia",
+        "reference": "World Health Organization. (2021). <em>Ethics and governance</em> <em>of artificial intelligence</em> <em>for</em> <em>health: WHO guidance</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240029200"
+      },
+      {
+        "id": "r68",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Agency for Healthcare Research and Quality. (2024). <em>AHRQ health</em> <em>literacy universal precautions</em> <em>toolkit</em> (3.ª ed.).",
+        "url": "https://www.ahrq.gov/health-literacy/improve/precautions/toolkit.html"
+      },
+      {
+        "id": "r69",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). <em>Language</em> <em>models are few-shot</em> <em>learners</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/2005.14165"
+      },
+      {
+        "id": "r70",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Departamento Nacional de Planeación. (2015). <em>Guía de lenguaje claro para servidores públicos de Colombia</em>.",
+        "url": "https://sigi.sic.gov.co/SIGI/files/mod_documentos/anexos/221/GUIA%20DEL%20LENGUAJE%20CLARO.pdf"
+      },
+      {
+        "id": "r71",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "DOI Foundation. (s. f.). <em>DOI</em>.",
+        "url": "https://www.doi.org/"
+      },
+      {
+        "id": "r72",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Higgins, J. P. T., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M. J., &amp; Welch, V. A. (Eds.). (2024). <em>Cochrane handbook</em> <em>for</em> <em>systematic</em> <em>reviews</em> <em>of</em> <em>interventions</em> (versión 6.5). Cochrane.",
+        "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current"
+      },
+      {
+        "id": "r73",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Meskó, B. (2023). Prompt engineering as an important emerging skill for medical professionals: Tutorial. <em>Journal</em> <em>of Medical Internet Research, 25</em>, Artículo e50638.",
+        "url": "https://doi.org/10.2196/50638"
+      },
+      {
+        "id": "r74",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Organización Panamericana de la Salud. (2024, 10 de junio). <em>Portal DeCS actualizado: descubre la Edición 2024 con nuevos descriptores</em>.",
+        "url": "https://www.paho.org/es/noticias/10-6-2024-portal-decs-actualizado-descubre-edicion-2024-con-nuevos-descriptores"
+      },
+      {
+        "id": "r75",
+        "unit": "u3",
+        "type": "bibliografia",
+        "reference": "Richardson, W. S., Wilson, M. C., Nishikawa, J., &amp; Hayward, R. S. (1995). The well-built clinical question: A key to evidence-based decisions. <em>ACP Journal Club, 123</em>(3), A12–A13.",
+        "url": "https://doi.org/10.7326/ACPJC-1995-123-3-A12"
+      },
+      {
+        "id": "r76",
+        "unit": "ut",
+        "type": "bibliografia",
+        "reference": "Arriaza Cruz, S. E., Cortés Moros, I., Leiva Comerás, N., García López, M. E., Ferrer Oliver, C., & Arregui Cortes, A. (2024). Fomentando la diversidad e inclusión en el entorno laboral de la salud: estrategias y beneficios. <em>Ocronos, 7</em>(4), 781.",
+        "url": "https://revistamedica.com/diversidad-inclusion-laboral-salud/?utm_source=chatgpt.com"
+      },
+      {
+        "id": "r77",
+        "unit": "ut",
+        "type": "bibliografia",
+        "reference": "Fundación Luker. (2025, 12 de febrero). <em>Política de diversidad, equidad e inclusión</em>.",
+        "url": "https://fundacionluker.org.co/politica-de-diversidad-equidad-e-inclusion/?utm_source=chatgpt.com"
+      },
+      {
+        "id": "r78",
+        "unit": "ut",
+        "type": "bibliografia",
+        "reference": "Garzón González, A. M. (2026). <em>Análisis de las dificultades y factores pedagógicos que inciden en la comprensión de conceptos matemáticos en estudiantes de grado séptimo de la Institución Educativa Rafael Uribe Uribe del municipio de Valparaíso: bases para una propuesta didáctica mediada por TIC </em>[Proyecto de investigación, Universidad Nacional Abierta y a Distancia]. Repositorio Institucional UNAD.",
+        "url": "https://repository.unad.edu.co/handle/10596/87664?utm_source=chatgpt.com"
+      },
+      {
+        "id": "r79",
+        "unit": "ut",
+        "type": "bibliografia",
+        "reference": "Hocol. (2024, 31 de enero). <em>Política de diversidad, equidad e inclusión (GTH-PO-01, versión 2). </em>",
+        "url": "https://www.hocol.com.co/sites/default/files/2024-04/Polii%CC%80tica%20de%20Diversidad%20Equidad%20e%20Inclusio%CC%81n%20VF.pdf?utm_source=chatgpt.com"
+      }
+    ]
+  },
+  "resources": [],
+  "credits": {
+    "title": "Créditos",
+    "iconSrc": "assets/Creditos.png",
+    "supportImageSrc": "assets/credits-team-support.jpg",
+    "supportImageAlt": "Equipo de desarrollo y diseño pedagógico",
+    "heading": "Grupo de trabajo",
+    "institution": {
+      "entities": [
+        "Ministerio del Trabajo y Seguridad Social",
+        "Servicio Nacional de Aprendizaje (SENA)",
+        "Asociación de Hospitales y Empresas Sociales del Estado del Departamento del Valle del Cauca - ASOHOSVAL"
+      ],
+      "details": [
+        {
+          "role": "Directora Ejecutiva:",
+          "names": "Ligia Elvira Viáfara Torres"
+        },
+        {
+          "role": "Primera edición:",
+          "names": "octubre/2026"
+        },
+        {
+          "role": "Ciudad:",
+          "names": "Cali (Valle del Cauca)"
+        }
+      ]
+    },
+    "coordination": "Coordinación general: Fundación Visión Salud",
+    "subordination": "",
+    "sections": [
+      {
+        "role": "Equipo Técnico Fundación Visión Salud:",
+        "names": "Paola Rueda Casallas"
+      },
+      {
+        "role": "Asesoría y diseño pedagógico:",
+        "names": "Alba Lucía Núñez G. - Samir Balanta Perea"
+      },
+      {
+        "role": "Adecuación y corrección de estilo:",
+        "names": "José Gabriel Ortiz Abella"
+      },
+      {
+        "role": "Ilustraciones y diseño digital:",
+        "names": "Liam Pamela Hermida García - William Gonzáles"
+      },
+      {
+        "role": "Diagramación:",
+        "names": "John Carlos Jiménez Díaz"
+      },
+      {
+        "role": "Realización audiovisual:",
+        "names": "Oscar Javier Rojas Pulido"
+      },
+      {
+        "role": "Director de virtualización y plataforma educativa:",
+        "names": "Julián Andrés Mora Gómez"
+      },
+      {
+        "role": "Derechos de autor y licencias:",
+        "names": "SENA"
+      }
+    ],
+    "legalNotice": "Las acciones de formación ejecutadas en el marco de la convocatoria DSNFT - 0001 - FCE - 2026 son gratuitas para los trabajadores beneficiarios"
+  },
+  "bibliography": {
+    "title": "Bibliografía",
+    "iconSrc": "assets/bibliografia.png",
+    "supportImageSrc": "assets/library-support.jpg",
+    "supportImageAlt": "Biblioteca académica y centro de documentación",
+    "heading": "Bibliografía",
+    "description": "Fuentes documentales, lecturas y recursos recomendados para la fundamentación conceptual del curso:",
+    "linkText": "Consultar recurso fuente",
+    "entries": [
+      {
+        "text": "Agency for Healthcare Research and Quality. (2024). <em>AHRQ health literacy universal precautions toolkit</em> (3.ª ed.).",
+        "url": "https://www.ahrq.gov/health-literacy/improve/precautions/toolkit.html"
+      },
+      {
+        "text": "Anthropic. (2026). <em>Claude Opus 5.5</em> [Modelo de lenguaje grande].",
+        "url": "https://claude.ai"
+      },
+      {
+        "text": "Barranquero, J. (2022). <em>Introducción a la anonimización de datos: técnicas y casos prácticos</em>. datos.gob.es.",
+        "url": "https://datos.gob.es/sites/default/files/doc/file/informe-anonimizacion-es.pdf"
+      },
+      {
+        "text": "Bireme/OPS/OMS. (s. f.). <em>Biblioteca Virtual en Salud</em>.",
+        "url": "https://bvsalud.org"
+      },
+      {
+        "text": "Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). <em>Language models are few-shot learners</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/2005.14165"
+      },
+      {
+        "text": "Consejo Nacional de Política Económica y Social. (2025). <em>Documento Conpes 4144: Política Nacional de Inteligencia Artificial</em>. Departamento Nacional de Planeación.",
+        "url": "https://www.dnp.gov.co/publicaciones/Planeacion/Paginas/conpes-4144-hoja-de-ruta-colombia-inteligencia-artificial-retos-actuales-transformacion-futura.aspx"
+      },
+      {
+        "text": "Constitución Política de Colombia. (1991). Secretaría General del Senado.",
+        "url": "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+      },
+      {
+        "text": "Corte Constitucional de Colombia. (2024, 2 de agosto). <em>Sentencia T-323 de 2024</em> (J. C. Cortés González, M. S.).",
+        "url": "https://www.corteconstitucional.gov.co/relatoria/2024/T-323-24.htm"
+      },
+      {
+        "text": "Decreto 1377 de 2013. (2013, 27 de junio). Por el cual se reglamenta parcialmente la Ley 1581 de 2012. Presidencia de la República de Colombia.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646"
+      },
+      {
+        "text": "Departamento Administrativo de la Función Pública. (s. f.). <em>Gestor Normativo</em>.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/"
+      },
+      {
+        "text": "Departamento Administrativo Nacional de Estadística. (2024). <em>Guía para la anonimización de datos estructurados</em>.",
+        "url": "https://www.dane.gov.co/files/sen/registros-administrativos/guia-anonimizacion-datos2024.pdf"
+      },
+      {
+        "text": "Departamento Nacional de Planeación. (2015). <em>Guía de lenguaje claro para servidores públicos de Colombia</em>.",
+        "url": "https://sigi.sic.gov.co/SIGI/files/mod_documentos/anexos/221/GUIA%20DEL%20LENGUAJE%20CLARO.pdf"
+      },
+      {
+        "text": "DOI Foundation. (s. f.). <em>DOI</em>.",
+        "url": "https://www.doi.org/"
+      },
+      {
+        "text": "Goddard, K., Roudsari, A., & Wyatt, J. C. (2012). Automation bias: A systematic review of frequency, effect mediators, and mitigators. <em>Journal of the American Medical Informatics Association, 19</em>(1), 121–127.",
+        "url": "https://doi.org/10.1136/amiajnl-2011-000089"
+      },
+      {
+        "text": "Higgins, J. P. T., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M. J., & Welch, V. A. (Eds.). (2024). <em>Cochrane handbook for systematic reviews of interventions</em> (versión 6.5). Cochrane.",
+        "url": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current"
+      },
+      {
+        "text": "Instituto Nacional de Vigilancia de Medicamentos y Alimentos. (s. f.). <em>¿Qué hacemos?</em>",
+        "url": "https://www.invima.gov.co/el-instituto/que-hacemos"
+      },
+      {
+        "text": "Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., Bang, Y. J., Madotto, A., & Fung, P. (2023). Survey of hallucination in natural language generation. <em>ACM Computing Surveys, 55</em>(12), Artículo 248.",
+        "url": "https://doi.org/10.1145/3571730"
+      },
+      {
+        "text": "Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2017). ImageNet classification with deep convolutional neural networks. <em>Communications of the ACM, 60</em>(6), 84–90.",
+        "url": "https://doi.org/10.1145/3065386"
+      },
+      {
+        "text": "Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). <em>Retrieval-augmented generation for knowledge-intensive NLP tasks</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/2005.11401"
+      },
+      {
+        "text": "Ley 23 de 1981. (1981, 18 de febrero). Por la cual se dictan normas en materia de ética médica. Congreso de la República de Colombia.",
+        "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/INEC/IGUB/ley-23-de-1981.pdf"
+      },
+      {
+        "text": "Ley 100 de 1993. (1993, 23 de diciembre). Por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones. Congreso de la República de Colombia.",
+        "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1993.html"
+      },
+      {
+        "text": "Ley 1581 de 2012. (2012, 17 de octubre). Por la cual se dictan disposiciones generales para la protección de datos personales. Congreso de la República de Colombia.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981"
+      },
+      {
+        "text": "Ley 2015 de 2020. (2020, 31 de enero). Por medio del cual se crea la historia clínica electrónica interoperable y se dictan otras disposiciones. Congreso de la República de Colombia.",
+        "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=105472"
+      },
+      {
+        "text": "McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955. <em>AI Magazine, 27</em>(4), 12–14. (Obra original publicada en 1955)",
+        "url": "https://doi.org/10.1609/aimag.v27i4.1904"
+      },
+      {
+        "text": "Meskó, B. (2023). Prompt engineering as an important emerging skill for medical professionals: Tutorial. <em>Journal of Medical Internet Research, 25</em>, Artículo e50638.",
+        "url": "https://doi.org/10.2196/50638"
+      },
+      {
+        "text": "Ministerio de Justicia y del Derecho. (s. f.). <em>SUIN-Juriscol: Sistema Único de Información Normativa</em>.",
+        "url": "https://www.suin-juriscol.gov.co/"
+      },
+      {
+        "text": "Ministerio de Salud. (1999, 8 de julio). <em>Resolución 1995 de 1999: Por la cual se establecen normas para el manejo de la historia clínica</em>.",
+        "url": "https://www.minsalud.gov.co/normatividad_nuevo/resoluci%C3%93n%201995%20de%201999.pdf"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2017). <em>Resolución 839 de 2017: Por la cual se modifica la Resolución 1995 de 1999 y se dictan otras disposiciones</em>.",
+        "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No%20839%20de%202017.pdf"
+      },
+      {
+        "text": "Ministerio de Salud y Protección Social. (2026, 31 de julio). <em>Resolución 1644 de 2026: Por la cual se establecen los requisitos y condiciones para el desarrollo de actividades de telesalud y la prestación de servicios de salud en la modalidad de telemedicina en el Sistema General de Seguridad Social en Salud y se deroga la Resolución 2654 de 2019</em>. Diario Oficial 53.618.",
+        "url": "https://normograma.mintic.gov.co/mintic/compilacion/docs/resolucion_minsaludps_1644_2026.htm"
+      },
+      {
+        "text": "National Institute of Standards and Technology. (2023). <em>Artificial intelligence risk management framework (AI RMF 1.0)</em> (NIST AI 100-1). U.S. Department of Commerce.",
+        "url": "https://doi.org/10.6028/NIST.AI.100-1"
+      },
+      {
+        "text": "National Institute of Standards and Technology. (2024). <em>Artificial intelligence risk management framework: Generative artificial intelligence profile</em> (NIST AI 600-1). U.S. Department of Commerce.",
+        "url": "https://doi.org/10.6028/NIST.AI.600-1"
+      },
+      {
+        "text": "National Library of Medicine. (s. f.). <em>PubMed clinical queries</em>.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/clinical/"
+      },
+      {
+        "text": "Omiye, J. A., Lester, J. C., Spichak, S., Rotemberg, V., & Daneshjou, R. (2023). Large language models propagate race-based medicine. <em>npj Digital Medicine, 6</em>, Artículo 195.",
+        "url": "https://doi.org/10.1038/s41746-023-00939-z"
+      },
+      {
+        "text": "OpenAI. (2022, 30 de noviembre). <em>Introducing ChatGPT</em>.",
+        "url": "https://openai.com/index/chatgpt/"
+      },
+      {
+        "text": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2021). <em>Recomendación sobre la ética de la inteligencia artificial</em>.",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000381137"
+      },
+      {
+        "text": "Organización Panamericana de la Salud. (2024, 10 de junio). <em>Portal DeCS actualizado: descubre la Edición 2024 con nuevos descriptores</em>.",
+        "url": "https://www.paho.org/es/noticias/10-6-2024-portal-decs-actualizado-descubre-edicion-2024-con-nuevos-descriptores"
+      },
+      {
+        "text": "Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J., Kelton, F., Miller, L., Simens, M., Askell, A., Welinder, P., Christiano, P., Leike, J., & Lowe, R. (2022). <em>Training language models to follow instructions with human feedback</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/2203.02155"
+      },
+      {
+        "text": "Presidencia de la República. (s. f.). <em>Uso responsable de la IA: Guía ética para la implementación, desarrollo y uso de sistemas de inteligencia artificial en entidades públicas de Colombia</em>.",
+        "url": "https://www.mintic.gov.co/portal/715/articles-425888_recurso_1.pdf"
+      },
+      {
+        "text": "Richardson, W. S., Wilson, M. C., Nishikawa, J., & Hayward, R. S. (1995). The well-built clinical question: A key to evidence-based decisions. <em>ACP Journal Club, 123</em>(3), A12–A13.",
+        "url": "https://doi.org/10.7326/ACPJC-1995-123-3-A12"
+      },
+      {
+        "text": "Shortliffe, E. H. (1976). <em>Computer-based medical consultations: MYCIN</em>. Elsevier.",
+        "url": null
+      },
+      {
+        "text": "Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., Scales, N., Tanwani, A., Cole-Lewis, H., Pfohl, S., Payne, P., Seneviratne, M., Gamble, P., Kelly, C., Babiker, A., Schärli, N., Chowdhery, A., Mansfield, P., Demner-Fushman, D., … Natarajan, V. (2023). Large language models encode clinical knowledge. <em>Nature, 620</em>(7972), 172–180.",
+        "url": "https://doi.org/10.1038/s41586-023-06291-2"
+      },
+      {
+        "text": "Superintendencia de Industria y Comercio. (2024, 21 de agosto). <em>Circular Externa 002 de 2024: Lineamientos sobre el tratamiento de datos personales en sistemas de inteligencia artificial</em>.",
+        "url": "https://sedeelectronica.sic.gov.co/sites/default/files/normativa/Circular%20Externa%20No.%20002%20del%2021%20de%20agosto%20de%202024.pdf"
+      },
+      {
+        "text": "Thirunavukarasu, A. J., Ting, D. S. J., Elangovan, K., Gutierrez, L., Tan, T. F., & Ting, D. S. W. (2023). Large language models in medicine. <em>Nature Medicine, 29</em>(8), 1930–1940.",
+        "url": "https://doi.org/10.1038/s41591-023-02448-8"
+      },
+      {
+        "text": "Topol, E. J. (2019). High-performance medicine: The convergence of human and artificial intelligence. <em>Nature Medicine, 25</em>(1), 44–56.",
+        "url": "https://doi.org/10.1038/s41591-018-0300-7"
+      },
+      {
+        "text": "Turing, A. M. (1950). Computing machinery and intelligence. <em>Mind, 59</em>(236), 433–460.",
+        "url": "https://doi.org/10.1093/mind/LIX.236.433"
+      },
+      {
+        "text": "Universidad del Valle. (2026). <em>Cali impulsa lineamientos para la inteligencia artificial en salud</em>.",
+        "url": "https://www.univalle.edu.co/proyeccion-internacional/cali-impulsa-lineamientos-para-la-inteligencia-artificial-en-salud"
+      },
+      {
+        "text": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). <em>Attention is all you need</em> [Preprint]. arXiv.",
+        "url": "https://arxiv.org/abs/1706.03762"
+      },
+      {
+        "text": "Walters, W. H., & Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. <em>Scientific Reports, 13</em>, Artículo 14045.",
+        "url": "https://doi.org/10.1038/s41598-023-41032-5"
+      },
+      {
+        "text": "World Health Organization. (2021). <em>Ethics and governance of artificial intelligence for health: WHO guidance</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240029200"
+      },
+      {
+        "text": "World Health Organization. (2024). <em>Ethics and governance of artificial intelligence for health: Guidance on large multi-modal models</em>.",
+        "url": "https://www.who.int/publications/i/item/9789240084759"
+      }
+    ]
+  },
+  "features": {
+    "creditsPopup": {
+      "enabled": true,
+      "button": "btnDockCredits"
+    },
+    "bibliographyPopup": {
+      "enabled": false,
+      "button": "btnDockBibliography",
+      "showLinks": true
+    },
+    "portadaScroll": {
+      "enabled": true,
+      "button": "btnPortadaScroll"
+    },
+    "enterCarousel": {
+      "enabled": true,
+      "button": "btnEnterCarrusel"
+    },
+    "popupClose": {
+      "enabled": true,
+      "button": "btnAmieClose"
+    }
+  }
+};
