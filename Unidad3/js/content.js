@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 85d1504e
- *  generatedAt:   2026-10-27T10:03:25.435Z
+ *  contentSha256: 0aa5955a
+ *  generatedAt:   2026-11-02T05:03:18.712Z
  */
-window.OVA_CONTENT_META = { contentSha256: "85d1504e", generatedAt: "2026-10-27T10:03:25.436Z" };
+window.OVA_CONTENT_META = { contentSha256: "0aa5955a", generatedAt: "2026-11-02T05:03:18.717Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Aplicación práctica de la inteligencia artificial generativa para el fortalecimiento de la productividad institucional",
   "unitCode": "Unidad 3",
@@ -148,11 +148,11 @@ window.OVA_CONTENT = {
       "shortTitle": "Video conceptual",
       "twoLineTitle": "Video<br>conceptual",
       "icon": "assets/icons/video.png",
-      "featuredImage": "assets/U3_img2.png",
+      "featuredImage": "assets/u3_img2.png",
       "featuredImageAlt": "Profesional analizando un informe junto a su computador portátil",
       "modalImage": "assets/modal2.png",
       "modalImageAlt": "Set de grabación con cámara de video y presentadora",
-      "youtubeUrl": "https://www.youtube.com/watch?v=YeafHaBGJyA"
+      "youtubeUrl": "https://www.youtube.com/watch?v=jIuFJlCL88s"
     },
     {
       "id": "03",
@@ -164,7 +164,7 @@ window.OVA_CONTENT = {
       "shortTitle": "Actividad teórica",
       "twoLineTitle": "Actividad<br>teórica",
       "icon": "assets/icons/Act_teorica.png",
-      "featuredImage": "assets/U3_img3.png",
+      "featuredImage": "assets/u3_img3.png",
       "featuredImageAlt": "Dos profesionales de la salud con tableta y documentos",
       "modalImage": "assets/modal3.png",
       "modalImageAlt": "Profesional de la salud observando una pantalla con información clínica digital",
@@ -199,7 +199,7 @@ window.OVA_CONTENT = {
       "shortTitle": "Actividad práctica",
       "twoLineTitle": "Actividad<br>práctica",
       "icon": "assets/icons/practica.png",
-      "featuredImage": "assets/U3_img4.png",
+      "featuredImage": "assets/u3_img4.png",
       "featuredImageAlt": "Profesional tomando notas en una tableta",
       "modalImage": "assets/modal4.png",
       "modalImageAlt": "Equipo de salud reunido revisando información en pantallas",
@@ -233,7 +233,7 @@ window.OVA_CONTENT = {
       "shortTitle": "Podcast de acción",
       "twoLineTitle": "Podcast<br>de&nbsp;acción",
       "icon": "assets/icons/podcast.png",
-      "featuredImage": "assets/U3_img5.png",
+      "featuredImage": "assets/u3_img5.png",
       "featuredImageAlt": "Profesional con audífonos trabajando en su computador portátil",
       "modalImage": "assets/modal5.png",
       "modalImageAlt": "Equipo de salud en una reunión de trabajo con pantallas de datos",

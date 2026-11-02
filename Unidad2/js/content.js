@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 0a6bf695
- *  generatedAt:   2026-10-27T04:04:55.661Z
+ *  contentSha256: 2f8564a2
+ *  generatedAt:   2026-11-02T05:02:50.154Z
  */
-window.OVA_CONTENT_META = { contentSha256: "0a6bf695", generatedAt: "2026-10-27T04:04:55.662Z" };
+window.OVA_CONTENT_META = { contentSha256: "2f8564a2", generatedAt: "2026-11-02T05:02:50.158Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Uso seguro, ético y responsable de la inteligencia artificial generativa en instituciones de salud",
   "unitCode": "Unidad 2",
@@ -152,7 +152,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Profesional analizando un informe junto a su computador portátil",
       "modalImage": "assets/modal1.png",
       "modalImageAlt": "Set de grabación con cámara de video y presentadora",
-      "youtubeUrl": "https://www.youtube.com/watch?v=CbXVhMrBcck"
+      "youtubeUrl": "https://www.youtube.com/watch?v=jLZH9spSFt8"
     },
     {
       "id": "03",

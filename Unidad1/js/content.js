@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 44741398
- *  generatedAt:   2026-10-27T04:04:55.545Z
+ *  contentSha256: 9cc8105c
+ *  generatedAt:   2026-11-02T05:02:20.684Z
  */
-window.OVA_CONTENT_META = { contentSha256: "44741398", generatedAt: "2026-10-27T04:04:55.545Z" };
+window.OVA_CONTENT_META = { contentSha256: "9cc8105c", generatedAt: "2026-11-02T05:02:20.688Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Uso de inteligencia artificial generativa en los procesos en salud: bases y fundamentos para su aplicación práctica y uso seguro",
   "unitCode": "Unidad 1",
@@ -153,7 +153,7 @@ window.OVA_CONTENT = {
       "featuredImageAlt": "Profesional analizando un informe junto a su computador portátil",
       "modalImage": "assets/theme-visual-02.jpg",
       "modalImageAlt": "Set de grabación con cámara de video y presentadora",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ruZxlVb6EH0"
+      "youtubeUrl": "https://www.youtube.com/watch?v=WRN1Z0miys8"
     },
     {
       "id": "03",
